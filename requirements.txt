@@ -1,0 +1,5 @@
+requests
+msgpack
+kafka-python
+psycopg2-binary
+fire
